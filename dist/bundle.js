@@ -1,0 +1,1 @@
+!function(){var o,c;c=(o={x:12,y:26}).x+o.y,console.log("".concat(c))}();
